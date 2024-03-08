@@ -1,1 +1,1 @@
-![Project Image](/Users/philipp/Desktop/Programmierung/BuggyProjekt/BuggyProjekt/Image/buggy.jpeg)
+![Project Image](https://github.com/DeadMuffin/buggy/blob/main/Image/buggy.jpeg)
